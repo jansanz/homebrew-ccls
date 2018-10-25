@@ -7,8 +7,8 @@ class Ccls < Formula
         :revision => "06aa25233567ae16a58a6f5237aacfd9e02aa29d"
   else
     url "https://github.com/MaskRay/ccls.git",
-        :tag => "0.20180924",
-        :revision => "41fcc0272c8c93fcbe52f24ef587e633a9dcc7e1"
+        :tag => "0.20181024",
+        :revision => "323d2ec8bf0df063810461199d2063832a322131"
   end
   head "https://github.com/MaskRay/ccls.git"
 
